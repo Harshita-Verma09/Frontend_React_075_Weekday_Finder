@@ -8,6 +8,8 @@ This project is a simple React application that allows users to select a date an
 - **Weekday Display:** Shows the name of the weekday for the selected date.
 - **Modern UI:** Clean, dark-themed interface for easy viewing.
 
+
+
 ## How to Use
 
 1. **Start the App:**  
